@@ -7,3 +7,4 @@ vue
 restore checkout
 分支管理
 新建一个feature分支
+我靠，有搞错了，是在分支上修改，提交，再到主分支修改，合并会冲突
